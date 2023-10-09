@@ -8,7 +8,7 @@ turtle.colormode(255)
 
 color_list = [(234, 229, 226), (241, 237, 238), (211, 148, 111), (216, 223, 233), (218, 229, 222), (135, 159, 189)]
 
-end_paint = False
+# end_paint = False
 
 row_count = 0
 position = [-275, -200]
